@@ -1,5 +1,5 @@
 # Neural_Network_project
-In this repository, I present you my latest project related to Neural Networks - an algorithm which aims to recognize items on different images. The data sources are defined both in the README file and the Jupyter notebook file, while the actual explanation of how the Method selection was done and how the algorithm works can be found in the Notebook. Enjoy! 
+In this repository, I present you my latest project related to Neural Networks written entirely in Python - an algorithm which aims to recognize items on different images. The data sources are defined both in the README file and the Jupyter notebook file, while the actual explanation of how the Method selection was done and how the algorithm works can be found in the Notebook. Enjoy! 
 
 ## Data Selection
 
